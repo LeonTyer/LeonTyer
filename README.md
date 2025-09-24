@@ -1,6 +1,7 @@
 # 👋 Hi, ich bin Leon
 
-![Logo](Leon_small.png)
+![Leon_small](https://github.com/user-attachments/assets/08ab4f7e-7469-458d-8e38-8adcb802e487)
+
 
 Willkommen auf meinem GitHub-Profil!  
 Ich bin ein angehender **Webentwickler** mit Leidenschaft für moderne, schnelle und benutzerfreundliche Webseiten.  
