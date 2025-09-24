@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 Hi, ich bin Leon
 
-<!--
-**LeonTyer/LeonTyer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Logo](Leon_small.png)
 
-Here are some ideas to get you started:
+Willkommen auf meinem GitHub-Profil!  
+Ich bin ein angehender **Webentwickler** mit Leidenschaft für moderne, schnelle und benutzerfreundliche Webseiten.  
+Aktuell baue ich Stück für Stück mein Portfolio auf und erweitere mein Wissen in **HTML, CSS und JavaScript**.  
+Mein Ziel ist es, mich als **Freelancer** selbstständig zu machen und spannende Projekte umzusetzen. 🚀
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## ✨ Skills & Tools
+- **Frontend:** HTML5, CSS3, JavaScript (ES6+)  
+- **Tools:**Git, GitHub, VS Code  
+- **Design:** Responsive Layouts, Micro-Animationen
+
+---
+
+## 📂 Aktuelle Projekte
+- **Portfolio Website** – persönliche Portfolioseite (HTML/CSS, Animationen)  
+- **Weitere Projekte** folgen — schau gerne später wieder rein!
+
+---
+
+## 📫 Kontakt
+- GitHub: [LeonTyer](https://github.com/LeonTyer)  
+
+
+✨ *„Code. Learn. Improve. Repeat.“* ✨
