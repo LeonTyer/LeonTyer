@@ -12,7 +12,7 @@ Mein Ziel ist es, mich als **Freelancer** selbstständig zu machen und spannende
 
 ## ✨ Skills & Tools
 - **Frontend:** HTML5, CSS3, JavaScript (ES6+)  
-- **Tools:**Git, GitHub, VS Code  
+- **Tools:** Git, GitHub, VS Code  
 - **Design:** Responsive Layouts, Micro-Animationen
 
 ---
