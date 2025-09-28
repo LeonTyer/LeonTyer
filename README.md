@@ -5,8 +5,7 @@
 
 Willkommen auf meinem GitHub-Profil!  
 Ich bin ein angehender **Webentwickler** mit Leidenschaft für moderne, schnelle und benutzerfreundliche Webseiten.  
-Aktuell baue ich Stück für Stück mein Portfolio auf und erweitere mein Wissen in **HTML, CSS und JavaScript**.  
-Mein Ziel ist es, mich als **Freelancer** selbstständig zu machen und spannende Projekte umzusetzen. 🚀
+Aktuell baue ich Stück für Stück mein Portfolio auf und erweitere mein Wissen in **HTML, CSS und JavaScript**. 🚀
 
 ---
 
@@ -19,7 +18,7 @@ Mein Ziel ist es, mich als **Freelancer** selbstständig zu machen und spannende
 
 ## 📂 Aktuelle Projekte
 - **Portfolio Website** – persönliche Portfolioseite (HTML/CSS, Animationen)  
-- **Weitere Projekte** folgen — schau gerne später wieder rein!
+- **Weitere Projekte** - Bsp. Unternehmens website 
 
 ---
 
