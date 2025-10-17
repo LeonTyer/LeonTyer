@@ -16,7 +16,7 @@ Aktuell baue ich Stück für Stück mein Portfolio auf und erweitere mein Wissen
 
 ---
 
-## 📂 Aktuelle Projekte
+## 📂 Aktuelle Projekte (Übung/Bsp.) 
 - **Portfolio Website** – persönliche Portfolioseite (HTML/CSS, Animationen)  
 - **Unternehmens Website** -Objektbetreuung Kalde
 - **Website füt einen Verein** - In Aktueller Bearbeitung 
